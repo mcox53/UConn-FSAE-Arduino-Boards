@@ -9,3 +9,12 @@ Ideas and formatting for this repository were borrowed, with love, from:
   
   Installation Instructions:
   - Coming soon
+  
+  To-Do List:
+  - Edit .inf file for team boards and build .cat file
+  - Add production bootloaders to /samd/bootloaders
+  - Under /samd/variants :
+	- Modify variant.cpp
+	- Modify variant.h
+  - Make a picture showing SAMD21-Dev-Board pin mapping
+  
