@@ -1,0 +1,30 @@
+{
+  "packages": [
+    {
+      "name": "FSAE Boards",
+      "maintainer": "UConn Formula SAE",
+      "websiteURL": "https://www.facebook.com/UCONNFSAE",
+      "email": "fsae.uconn@gmail.com",
+      "platforms": [
+        {
+          "name": "UConn FSAE Boards",
+          "architecture": "samd",
+          "version": "0.1",
+          "category": "Contributed",
+          "url": "TBD",
+          "archiveFileName": "TBD",
+          "checksum": "TBD",
+          "size": "TBD",
+          "help": {
+            "online": ""
+          },
+          "boards": [
+            {
+              "name": "SAMD21-Dev-Board-1.0"
+            }
+          ]
+		}
+      ]
+    }
+  ]
+}
