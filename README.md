@@ -15,6 +15,7 @@ To-Do List:
   - Add production bootloaders to /samd/bootloaders
   - Under /samd/variants :
 	- Modify variant.cpp
+		- Test multiple attributes in ulPinAttribute field
 	- Modify variant.h
 	- Note to self: SPI PAD values found in samd/cores/arduino/sercom.h
 	- Note to self: Pin names for SPI Interface > 1 found in samd/libraries/SPI/SPI.cpp
